@@ -1,4 +1,4 @@
-# TODO_MERN_App_backend
+# TODO MERN STACK App_backend
 
 This is the back end for the TODO app, check for [FRONTEND](https://github.com/Hiteshsaai/Todo_MERN_App_Frontend) here.
 
