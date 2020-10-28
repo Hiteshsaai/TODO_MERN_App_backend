@@ -2,7 +2,7 @@
 
 This is the back end for the TODO app, check for [FRONTEND](https://github.com/Hiteshsaai/Todo_MERN_App_Frontend) here.
 
-# About
+# Description
 
 * This is a CRUD backend handler. </br>
   - Used to create, read, update and delete the Todo.
