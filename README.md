@@ -9,7 +9,7 @@ This is the back end for the TODO app, check for [FRONTEND](https://github.com/H
   - Using the **API** end point the above actions are performed.
 * To store the data for the TODO's we have used MongoDB server.
 
-# Specification Used
+# Technologies Used
 
 * **Node.js** (server)
 * **Express** (backend-framwork)
